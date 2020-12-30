@@ -1,1 +1,3 @@
-this is demo for git repository
+this is demo for git repository 
+
+updating some info
